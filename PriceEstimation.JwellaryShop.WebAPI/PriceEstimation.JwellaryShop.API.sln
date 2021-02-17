@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriceEstimation.JwellaryShop.WebApi", "PriceEstimation.JwellaryShop.WebApi.csproj", "{497B3EC3-8166-48E8-871E-8BE3A2F8FAC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriceEstimation.JwellaryShop.Test", "..\PriceEstimation.JwellaryShop.Test\PriceEstimation.JwellaryShop.Test.csproj", "{B8285A15-DDFE-451E-AA02-CC72C5568F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497B3EC3-8166-48E8-871E-8BE3A2F8FAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497B3EC3-8166-48E8-871E-8BE3A2F8FAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497B3EC3-8166-48E8-871E-8BE3A2F8FAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497B3EC3-8166-48E8-871E-8BE3A2F8FAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8285A15-DDFE-451E-AA02-CC72C5568F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8285A15-DDFE-451E-AA02-CC72C5568F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8285A15-DDFE-451E-AA02-CC72C5568F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8285A15-DDFE-451E-AA02-CC72C5568F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE4EE0D6-7266-4886-9492-6E255AAD24B9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PriceEstimation.JwellaryShop.Test/bin/Debug/netcoreapp2.1
+/PriceEstimation.JwellaryShop.Test/obj
+/PriceEstimation.JwellaryShop.WebAPI/bin/Debug/netcoreapp2.1
+/PriceEstimation.JwellaryShop.WebAPI/.vs
+/.vs
+/PriceEstimation.JwellaryShop.WebAPI/obj
